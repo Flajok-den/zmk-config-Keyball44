@@ -53,8 +53,7 @@
         automouse-layer = <4>;
         scroll-layers = <5>;
         snipe-layers = <6>;
-        cpi = <3200>; // Добавлено для установки CPI на 3200
-    };
+           };
 };
 
 / {
